@@ -5,7 +5,7 @@ tags: functions, random, looping
 ### DICE ROLL APP
 
 ## Instructions
-Open the <kbd>dice_roll.py<kbd> file and run it. It should roll two dice five times, printing the rolls of each pair. Look at the code and get familiar with it. You will modify this program in three ways:
+Open the <kbd>dice_roll.py</kbd> file and run it. It should roll two dice five times, printing the rolls of each pair. Look at the code and get familiar with it. You will modify this program in three ways:
 
 1. Rather than rolling the dice a fixed number of times (like the original version does), we now want to keep rolling the dice until we hit double sixes. The program should stop as soon as it rolls the first double sixes.
 
