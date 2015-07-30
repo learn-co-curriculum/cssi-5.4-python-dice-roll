@@ -1,7 +1,4 @@
----
-languages: python
-tags: functions, random, looping
----
+
 ### DICE ROLL APP
 
 ## Instructions
