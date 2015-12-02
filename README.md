@@ -37,3 +37,5 @@ Rolls: 6 6
 Got double sixes!
 Rolled the dice 19 times
 ```
+
+<a href='https://learn.co/lessons/cssi-5.4-python-dice-roll' data-visibility='hidden'>View this lesson on Learn.co</a>
