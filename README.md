@@ -38,4 +38,4 @@ Got double sixes!
 Rolled the dice 19 times
 ```
 
-<a href='https://learn.co/lessons/cssi-5.4-python-dice-roll' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-5.4-python-dice-roll' title='DICE ROLL APP'>DICE ROLL APP</a> on Learn.co and start learning to code for free.</p>
